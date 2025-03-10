@@ -1,0 +1,12 @@
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lcd+ultrasonic+rtos\port.o: C:\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stddef.h
+lcd+ultrasonic+rtos\port.o: C:\Keil_v5\ARM\Arm_Compiler_5.06u7\Bin\..\include\stdint.h
+lcd+ultrasonic+rtos\port.o: ../Core/Inc/FreeRTOSConfig.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lcd+ultrasonic+rtos\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
