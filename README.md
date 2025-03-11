@@ -1,0 +1,1 @@
+Here, you'll find various small IoT projects that I've created to practice and showcase my coding skills. These projects highlight my ability to work with sensors, modules, and embedded systems, and provide insight into my coding style and problem-solving process.
